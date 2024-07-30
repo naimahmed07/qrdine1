@@ -1,0 +1,1 @@
+<p>This the application landing page</p><?php /**PATH /media/mahfuz/Codes/side-projects/QRDine/resources/views/welcome.blade.php ENDPATH**/ ?>
